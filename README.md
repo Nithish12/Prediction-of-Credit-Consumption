@@ -1,1 +1,0 @@
-# Prediction-of-Credit-Consumption
